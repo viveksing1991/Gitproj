@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Appme</string>
+    <string name="text_forgot_password">Forgot Password ?</string>
+    <string name="btn_txt_login">Login</string>
+    <string name="btn_text_register">"Don't have an account\ ? Register Now"</string>
+    <string name="edt_email_hint">Enter Email Id</string>
+    <string name="edt_password_hint">Enter Password</string>
+    <string name="updatePassword"> Update Password</string>
+    <string name="facebookloginText">Login through Facebook </string>
+    <string name="facebook_app_id">798629910301683</string>
+</resources>
